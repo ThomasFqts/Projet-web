@@ -1,3 +1,5 @@
+// Exercice doc 4
+
 // let nom = prompt("Entrez votre nom");
 // let prenom = prompt("Entrez votre prénom");
 // let sexe = confirm("Êtes-vous un homme?");

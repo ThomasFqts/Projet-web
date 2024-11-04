@@ -12,3 +12,13 @@
 // else{
 //     alert("Bonjour Madame " + nom + " " + prenom + "!\n Bienvenue sur notre site web !")
 // }
+
+// Exercice 1 doc 6
+
+// let nombre = prompt("Entrer un nombre");
+// if (nombre%2==0) {
+//     console.log(nombre + " est paire")
+// }
+// else {
+//     console.log(nombre + " est impaire")
+// }

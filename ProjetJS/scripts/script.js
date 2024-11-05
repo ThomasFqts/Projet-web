@@ -164,7 +164,8 @@
 
 // let N = prompt("Saisissez votre nombre.");
 
-// for (let i = N; i>=0; i--) {
+// Boucle qui part de N - 1 jusqu'à 0 pour afficher tous les nombres inférieurs à N
+// for (let i = N - 1; i>=0; i--) {
 //     console.log(i);
 // }
 
@@ -173,10 +174,11 @@
 // let N = parseInt(prompt("Saisissez votre nombre."));
 // let sum = 0;
 
-// for (let i = N; i > 0; i--) {
+// Boucle qui part de N - 1 jusqu'à 1 pour additionner les nombres inférieurs à N
+// for (let i = N - 1; i > 0; i--) {
 //   sum += i;
-//   console.log(sum);
 // }
+// console.log("La somme des entiers inférieurs à " + N + " est : " + sum);
 
 // Exercice 4 doc 7
 
@@ -184,7 +186,7 @@
 // let n2 = parseInt(prompt("Veuillez saisir le deuxième numero"));
 // let sum = 0;
 
-// Calcul des intervalles de n1 à n2
+// // Calcul des intervalles de n1 à n2
 // for (let i = n1; i<=n2; i++) {
 //     sum+=i;
 //     console.log(sum);
@@ -200,6 +202,7 @@
 
 //     let nb = parseFloat(nbDemande);
 
+//     // Si le nombre est 0, alors la boucle s'arrête.
 //     if (nb === 0) {
 //         break;
 //     }
@@ -208,7 +211,7 @@
 //     nbCount++;
 // }
 
-// nbMoyenne = nbSomme / nbCount;
+// let nbMoyenne = nbSomme / nbCount;
 
 // console.log(nbSomme);
 // console.log(nbCount);
@@ -263,7 +266,7 @@
 // Exercice 8 doc 7
 
 // let mot = prompt("Saisir un mot.");
-// let voyelles = "a,e,i,o,u,y,A,E,I,O,U,Y";
+// let voyelles = "aeiouyAEIOUY";
 // let voyellesCount = 0;
 
 // for (let i =0; i < mot.length; i++) {

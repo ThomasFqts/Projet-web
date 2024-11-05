@@ -181,3 +181,71 @@
 // }
 
 // Exercice 5 doc 7
+
+// let nbSomme = 0;
+// let nbCount = 0;
+
+// while(true){
+//     let nbDemande = parseFloat(prompt("Veuillez saisir un nombre (0 pour arreter)"));
+
+//     let nb = parseFloat(nbDemande);
+
+//     if (nb === 0) {
+//         break;
+//     }
+
+//     nbSomme += nb;
+//     nbCount++;
+// }
+
+// nbMoyenne = nbSomme / nbCount;
+
+// console.log(nbSomme);
+// console.log(nbCount);
+// console.log(nbMoyenne);
+
+// Exercice 6 doc 7 
+
+// let nbSomme = 0;
+// let nbCount = 0;
+// let nbMin = 2 ** 53;
+// let nbMax = 0;
+
+// while(true){
+//     let nbDemande = parseFloat(prompt("Veuillez saisir un nombre (0 pour arreter)"));
+
+//     let nb = parseFloat(nbDemande);
+
+//     if (nb === 0) {
+//         break;
+//     }
+
+//     nbSomme += nb;
+//     nbCount++;
+
+//     if (nb<nbMin) {
+//         nbMin = nb
+//     }
+
+//     else if (nb>nbMax) {
+//         nbMax = nb
+//     }
+// }
+
+// nbMoyenne = nbSomme / nbCount;
+
+// console.log(nbSomme + " est la somme des nombres.");
+// console.log(nbCount + " est le nombre de nombres.");
+// console.log(nbMoyenne + " est la moyenne des nombres.");
+// console.log(nbMin + " est le minimum.");
+// console.log(nbMax + " est le maximum");
+
+// Exercice 7 doc 7
+
+// let N = parseInt(prompt("Saisir le multiplicande"));
+// let X = parseInt(prompt("Saisir le multiplicateur"));
+
+// for (let i = 1; i<= N; i++) {
+//     let NX = i *X;
+//     console.log(i + " x " + X + " = " + NX);
+// }

@@ -42,7 +42,7 @@
 // let num2 = parseInt(prompt("Entrez votre deuxième chiffre"));
 // let resultat;
 
-// Condition pour les différent opérateur
+// // Condition pour les différent opérateur
 // switch (operateur) {
 //   case "+":
 //     resultat = num1 + num2;
@@ -63,8 +63,10 @@
 //     } else {
 //       resultat = num1 / num2;
 //     }
-
 //     break;
+
+//     default :
+//         alert("Opérateur " + operateur + " inconnu");
 // }
 // alert(resultat);
 
@@ -165,3 +167,17 @@
 // }
 
 // console.log(sum);
+
+// Exercice 4 doc 7
+
+// let n1 = parseInt(prompt("Veuillez saisir le premier numero"));
+// let n2 = parseInt(prompt("Veuillez saisir le deuxième numero"));
+// let sum = 0
+
+// Calcul des intervalles de n1 à n2
+// for (let i = n1; i<=n2; i++) {
+//     sum+=i
+//     console.log(sum)
+// }
+
+// Exercice 5 doc 7

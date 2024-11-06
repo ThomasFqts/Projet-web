@@ -325,10 +325,10 @@
 // }
 // console.log(magic);
 
-let nombre = parseInt(prompt("Veuillez saisir un nombre pour tester s'il est premier :"));
+// let nombre = parseInt(prompt("Veuillez saisir un nombre pour tester s'il est premier :"));
 
-// Variable pour déterminer si le nombre est premier
-let estPremier = true;
+// // Variable pour déterminer si le nombre est premier
+// let estPremier = true;
 
 // Vérifie si le nombre est inférieur ou égal à 1
 // if (nombre <= 1) {

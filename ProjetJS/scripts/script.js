@@ -447,9 +447,9 @@
 
 // Exercice 2 doc 8
 
-function TableMultiplication(nb){
-    let i = 0;
-    while (i<= 10) {
-        i * nb;
-    }
-} 
+// function TableMultiplication(nb){
+//     let i = 0;
+//     while (i<= 10) {
+//         i * nb;
+//     }
+// } 

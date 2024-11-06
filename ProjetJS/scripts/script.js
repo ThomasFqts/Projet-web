@@ -225,9 +225,9 @@
 
 // let nbMoyenne = nbSomme / nbCount;
 
-// console.log(nbSomme);
-// console.log(nbCount);
-// console.log(nbMoyenne);
+// console.log("La somme est de : " + nbSomme);
+// console.log("Il y a " + nbCount + " nombre.");
+// console.log("La moyenne est de : " + nbMoyenne);
 
 // Exercice 6 doc 7
 
@@ -364,7 +364,46 @@
 //     console.log(nombre + " n'est pas un nombre premier.");
 // }
 
+// Exercice 1 slack
+// let age = prompt("Veuillez saisir votre age.");
+// let categorie = "";
 
+// if (age <= 7){
+//     categorie = "Poussin";
+// }
+// else if (age <= 9){
+//     categorie = "Pupille";
+// }
+// else if (age <= 11){
+//     categorie = "Minime";
+// }
+// else{
+//     categorie = "Cadet";
+// }
+
+// console.log("Vous appartenez à la catégorie : " + categorie);
+
+// Exercice 2 slack
+
+// let heures = parseInt(prompt("Quel heure est-il ? (Donnez le nombre d'heure actuellement.)"));
+// let minutes = parseInt(prompt("Quel heure est-il ? (Donnez le nombre de minutes actuellement.)"));
+
+// if (heures > 24) {
+//     alert("Impossible! Valeur trop grande!")
+//     console.log("Impossible! Valeur trop grande!")
+// }
+// if (minutes == 59) {
+//     heures+=1;
+//     minutes = "00";
+//     if (heures == 24) {
+//         heures = "00";
+//         minutes = "00";
+//     }
+// }
+// for (let i = 0 ; i!= minutes; i+= minutes) {
+//     minutes++;
+// }
+// console.log("Dans une minutes, il sera " + heures + " heure(s) " + minutes + ".");
 
 
 

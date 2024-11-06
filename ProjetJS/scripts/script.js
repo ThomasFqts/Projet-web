@@ -186,11 +186,23 @@
 // let n2 = parseInt(prompt("Veuillez saisir le deuxième numero"));
 // let sum = 0;
 
-// // Calcul des intervalles de n1 à n2
-// for (let i = n1; i<=n2; i++) {
-//     sum+=i;
+// // // Calcul des intervalles de n1 à n2
+// if (n1 > n2){
+//     for (let i = n2; i<n1; i++) {
+//         sum+=i;
+//         console.log(i);
+//     }
 //     console.log(sum);
 // }
+// else {
+//     for (let i = n1; i<n2; i++) {
+//         sum+=i;
+//         console.log(i);
+//     }
+//     console.log(sum);
+// }
+
+
 
 // Exercice 5 doc 7
 
@@ -350,4 +362,32 @@
 //     console.log(nombre + " est un nombre premier.");
 // } else {
 //     console.log(nombre + " n'est pas un nombre premier.");
+// }
+
+
+
+
+
+// Exercice exemple doc 8
+
+// function maFonction()
+// {
+// let plop1 = 123;
+// return plop1;
+// }
+// function maFonction2()
+// {
+// plop2 = 456;
+// }
+// plop1 = maFonction();
+
+// console.log("fonction 1 / plop1 : "+plop1);
+
+// maFonction2();
+// console.log("mafonction2 > plop2 : "+plop2);
+
+// Exercice 1 doc 7 
+
+// function produit(x,y) {
+
 // }

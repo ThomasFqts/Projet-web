@@ -19,6 +19,9 @@
 // console.log(Count(phrse,ltre));
 
 // function compterLettre(phrase, lettre) {
+//     if (lettre.length !== 1 || !/^[a-zA-Z]$/.test(lettre)) {
+//                 throw new Error("Le paramètre 'lettre' doit être un seul caractère.");
+//             }
 //     let count = 0; // Initialise le compteur à 0
 
 //     for (let i = 0; i < phrase.length; i++) {

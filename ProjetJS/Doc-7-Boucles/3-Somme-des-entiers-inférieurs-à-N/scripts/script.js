@@ -1,4 +1,4 @@
-// Exercice 3 doc 7
+// Exercice 3
 
 // let N = parseInt(prompt("Saisissez votre nombre."));
 // let sum = 0;

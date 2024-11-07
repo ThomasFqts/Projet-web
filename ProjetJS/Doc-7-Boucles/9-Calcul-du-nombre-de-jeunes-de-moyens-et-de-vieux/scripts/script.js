@@ -1,4 +1,4 @@
-// Exercice 9 doc 7
+// Exercice 9
 
 // let jeunes = 0; // Jeunes < 20ans
 // let moyen = 0; // Moyens >= 20ans <= 40 ans

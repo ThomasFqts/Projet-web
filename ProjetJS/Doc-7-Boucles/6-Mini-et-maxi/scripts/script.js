@@ -1,4 +1,4 @@
-// Exercice 6 doc 7
+// Exercice 6
 
 // let nbSomme = 0;
 // let nbCount = 0;

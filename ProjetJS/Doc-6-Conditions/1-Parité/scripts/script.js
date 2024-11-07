@@ -1,4 +1,4 @@
-// Exercice 1 doc 6
+// Exercice 1
 
 // Déclaration de variable
 // let nombre = prompt("Entrer un nombre"); 

@@ -1,4 +1,4 @@
-// Exercice 1 doc 7 // Verifiez que tous les exos soit correcte et ajouter des commentaire.
+// Exercice 1
 
 // let i = 1;
 // let prenom;

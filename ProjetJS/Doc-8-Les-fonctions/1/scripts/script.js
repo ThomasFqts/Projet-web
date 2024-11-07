@@ -1,4 +1,4 @@
-// Exercice 1 doc 8 
+// Exercice 1
 
 // Fonction qui retourne le produit de x, y.
 // function produit(x,y) {

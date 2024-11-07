@@ -1,4 +1,4 @@
-// Exercice 5 doc 6
+// Exercice 5
 
 // Déclaration de variable
 // let maried = confirm("Êtes vous marié ?");

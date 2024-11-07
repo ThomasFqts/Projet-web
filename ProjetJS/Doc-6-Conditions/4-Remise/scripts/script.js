@@ -1,4 +1,4 @@
-// Exercice 4 doc 6
+// Exercice 4
 
 // Déclaration des variables
 // let pu = parseFloat(prompt("Quel est le prix unitaire")) ;

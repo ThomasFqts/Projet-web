@@ -1,4 +1,4 @@
-// Exercice 8 doc 7
+// Exercice 8
 
 // let mot = prompt("Saisir un mot.");
 // let voyelles = "aeiouyAEIOUY";

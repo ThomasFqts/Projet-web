@@ -1,4 +1,4 @@
-// Exercice exemple doc 8
+// Exercice exemple
 
 // function maFonction()
 // {

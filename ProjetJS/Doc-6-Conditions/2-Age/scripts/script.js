@@ -1,4 +1,4 @@
-// Exercice 2 doc 6
+// Exercice 2
 
 // Déclaration de variable
 // let annee = prompt("Quel est votre année de naissance ?");

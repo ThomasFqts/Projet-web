@@ -1,4 +1,4 @@
-// Exercice 10 doc 7
+// Exercice 10
 // let nombre = parseInt(prompt("Veuillez saisir un nombre pour tester s'il est premier :"));
 
 // // Variable pour déterminer si le nombre est premier

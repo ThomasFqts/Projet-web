@@ -1,4 +1,4 @@
-// Exercice 11 doc 7
+// Exercice 11
 // let magic = parseInt(Math.floor((Math.random() * 100) + 1));
 // let user = parseInt(prompt("Veuillez saisir un nombre entre 0 et 100"));
 

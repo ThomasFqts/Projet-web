@@ -1,4 +1,4 @@
-// Exercice 7 doc 7
+// Exercice 7
 
 // let N = parseInt(prompt("Saisir le multiplicande"));
 // let X = parseInt(prompt("Saisir le multiplicateur"));

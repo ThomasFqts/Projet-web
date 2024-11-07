@@ -1,4 +1,4 @@
-// Exercice 2 doc 8
+// Exercice 2
 
 // function TableMultiplication(nb){
 //     let i = 0;

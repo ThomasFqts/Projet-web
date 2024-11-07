@@ -1,4 +1,4 @@
-// Exercice 4 doc 7
+// Exercice 4
 
 // let n1 = parseInt(prompt("Veuillez saisir le premier numero"));
 // let n2 = parseInt(prompt("Veuillez saisir le deuxième numero"));

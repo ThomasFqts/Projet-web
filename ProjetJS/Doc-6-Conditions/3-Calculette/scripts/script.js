@@ -1,4 +1,4 @@
-// Exercice 3 doc 6
+// Exercice 3
 
 // Déclaration des variables
 // let num1 = parseInt(prompt("Entrez votre premier chiffre"));

@@ -1,4 +1,4 @@
-// Exercice 2 doc 7
+// Exercice
 
 // let N = prompt("Saisissez votre nombre.");
 

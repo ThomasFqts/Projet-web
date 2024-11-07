@@ -17,17 +17,3 @@
 
 // lien =prompt("Veuillez saisir le lien de l'image que vous souhaiter afficher.");
 // document.write("<img src="+afficheImg(lien)+">");
-
-// Exercice 2 doc 8
-
-// function TableMultiplication(nb){
-//     let i = 0;
-//     while (i<= 10) {
-//         let somme = i * nb;
-//         console.log(i + " * " + nb + " = " + somme);
-//         i++;
-//     }
-// } 
-
-// pnb = parseInt(prompt("Veuillez saisir un nombre."));
-// console.log(TableMultiplication(pnb));

@@ -1,6 +1,6 @@
 // Exercice 3
 
-// function Count (phrase,lettre) {
+// function Countlettre (phrase,lettre) {
 //     if (lettre.length !== 1 || !/^[a-zA-Z]$/.test(lettre)) {
 //         throw new Error("Le paramètre 'lettre' doit être un seul caractère.");
 //     }
@@ -16,7 +16,7 @@
 
 // ltre = prompt("Veuillez saisir votre lettre.");
 // phrse = prompt("Veuillez saisir votre phrase.");
-// console.log(Count(phrse,ltre));
+// console.log(Countlettre(phrse,ltre));
 
 // function compterLettre(phrase, lettre) {
 //     if (lettre.length !== 1 || !/^[a-zA-Z]$/.test(lettre)) {

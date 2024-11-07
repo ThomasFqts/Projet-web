@@ -18,21 +18,22 @@
 // phrse = prompt("Veuillez saisir votre phrase.");
 // console.log(Countlettre(phrse,ltre));
 
-// function compterLettre(phrase, lettre) {
+// function Countlettre() {
+//     let lettre = prompt("Veuillez saisir votre lettre.");
+//     let phrase = prompt("Veuillez saisir votre phrase.");
 //     if (lettre.length !== 1 || !/^[a-zA-Z]$/.test(lettre)) {
 //                 throw new Error("Le paramètre 'lettre' doit être un seul caractère.");
 //             }
-//     let count = 0; // Initialise le compteur à 0
+//     lettre = lettre.toLowerCase();
+//     phrase = phrase.toLowerCase();
+//     let count = 0;
 
 //     for (let i = 0; i < phrase.length; i++) {
 //         if (phrase[i] === lettre) { // Vérifie si le caractère courant est égal à "lettre"
-//             count++; // Incrémente le compteur si on trouve une correspondance
+//             count++;
 //         }
 //     }
-
-//     return count; // Retourne le nombre total de fois où "lettre" apparaît dans "phrase"
+//     console.log(count);
 // }
 
-// ltre = prompt("Veuillez saisir votre lettre.");
-// phrse = prompt("Veuillez saisir votre phrase.");
-// console.log(compterLettre(phrse,ltre));
+// Countlettre();

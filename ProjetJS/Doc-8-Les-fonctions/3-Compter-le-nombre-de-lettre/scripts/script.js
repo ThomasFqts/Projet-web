@@ -29,3 +29,7 @@
 
 //     return count; // Retourne le nombre total de fois où "lettre" apparaît dans "phrase"
 // }
+
+// ltre = prompt("Veuillez saisir votre lettre.");
+// phrse = prompt("Veuillez saisir votre phrase.");
+// console.log(compterLettre(phrse,ltre));
